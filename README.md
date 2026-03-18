@@ -145,6 +145,7 @@ gcloud run deploy ai-agent \
 * Vertex AI API enabled
 * Billing enabled
 
+This project follows an agent-based architecture inspired by ADK principles, using Gemini for reasoning and Flask as the serving layer.
 ---
 
 ## 📈 Future Enhancements
